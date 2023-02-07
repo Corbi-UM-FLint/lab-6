@@ -7,3 +7,7 @@ safari
 toyota
 ios
 macos
+<<<<<<< Updated upstream
+=======
+tizen
+>>>>>>> Stashed changes
